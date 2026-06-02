@@ -18,7 +18,7 @@ export default function About() {
             
             <div className="space-y-6 text-gray-400 leading-relaxed text-lg">
               <p>
-                Abhayjeet Singh is a data-driven AI Engineer with experience in market intelligence and analytics. Currently working as a Senior Research Analyst, he specializes in transforming complex datasets into actionable insights using Python, SQL, and Power BI.
+                Currently pursuing MCA, Abhayjeet Singh is building a strong foundation in artificial intelligence and data analytics. His technical skills in Python, SQL, and Power BI enable him to extract insights from complex datasets and prepare for a career in AI engineering.
               </p>
               <p>
                 He combines data analysis with AI technologies to build scalable, intelligent systems that support better decision-making. His focus is on real-world impact — not just models, but working solutions that address actual business and environmental challenges.
